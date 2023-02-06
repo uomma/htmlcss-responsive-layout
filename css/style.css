@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body{
+     background-color: red;
+}
+
+.top{
+      background-color: #0084fd;
+    height: 4.375rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem  1.25rem;
+    color: white;
+}
